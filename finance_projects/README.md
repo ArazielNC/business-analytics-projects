@@ -1,3 +1,4 @@
+### `finance_projects/`
 Includes two financial modeling projects:
 
 - **Carteras.ipynb** → Construction and analysis of investment portfolios.  
